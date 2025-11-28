@@ -9,11 +9,11 @@ Ce dépôt contient la documentation produite dans le cadre du projet final du c
 - CHANGELOG.md : historique des versions
 
 ## Équipe
-Belambri, Yasmina
-Bouare, Hawa
-Dedji, Nonteponjesu Ayedjo Dearest
-Gomez Menendez, Juan Manuel
-Massob Mu Tsasse, Alida Naomie
-Ndiaye, Fatou
-Ngondy, Loïc Vianney
-Touhari, Yassine
+Belambri, Yasmina  
+Bouare, Hawa  
+Dedji, Nonteponjesu Ayedjo Dearest  
+Gomez Menendez, Juan Manuel  
+Massob Mu Tsasse, Alida Naomie  
+Ndiaye, Fatou  
+Ngondy, Loïc Vianney  
+Touhari, Yassine  
